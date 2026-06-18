@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Meghana Jala
 
-<!--
-**Meghana17-10/Meghana17-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech CSE (AI & ML)
 
-Here are some ideas to get you started:
+🔬 Interested in:
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Graph Neural Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 KMCE Hackathon Winner
+
+📄 Research Author - GNNarium
+
+## 🚀 Projects
+
+- Stale Fruit Detection using Swin Transformer
+- GNNarium
+- RFID Attendance Logger
+
+## 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/meghanajala
+- GitHub: https://github.com/Meghana17-10
