@@ -22,3 +22,9 @@
 
 - LinkedIn: www.linkedin.com/in/meghanajala
 - GitHub: https://github.com/Meghana17-10
+
+## 📊 GitHub Stats
+
+![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meghana17-10&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana17-10&layout=compact&theme=tokyonight)
